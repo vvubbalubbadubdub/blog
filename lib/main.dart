@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             style: TextStyle(color: Colors.black),
           ),
         ),
-        body:null,
+        body:Container(),
       ),
     );
   }
