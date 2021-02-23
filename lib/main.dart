@@ -16,11 +16,11 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.grey,
           elevation: 10,
           title: Text(
-            "data",
+            "not ortalaması",
             style: TextStyle(color: Colors.black),
           ),
         ),
-        body:Container(),
+        body: Container(width: 200, height: 200, color: Colors.pink),
       ),
     );
   }
